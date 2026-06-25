@@ -3,8 +3,8 @@ module github.com/datamaskio/examples
 go 1.26.4
 
 require (
-	github.com/datamaskio/datamask v0.0.0
-	github.com/datamaskio/maskotel v0.0.0
+	github.com/datamaskio/datamask v0.1.0
+	github.com/datamaskio/maskotel v0.1.0
 	go.opentelemetry.io/otel v1.28.0
 	go.opentelemetry.io/otel/sdk v1.28.0
 )
