@@ -6,7 +6,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/datamaskio/datamask/pkg/datamask"
+	"github.com/datamaskio/datamask"
 )
 
 type Customer struct {

@@ -11,7 +11,7 @@ import (
 	"log/slog"
 	"os"
 
-	"github.com/datamaskio/datamask/pkg/maskslog"
+	"github.com/datamaskio/datamask/maskslog"
 )
 
 func main() {
